@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+display:flex;
+justify-content: center;
+flex-direction: column;
+width: 300px;
+align-items: center;
+}
+
+.header {
+  margin-bottom: 50px;
+  font-size: 80px;
+  font-weight: bold;
+  text-shadow: 4px 3px 4px palegreen;
+}
+
+.footer {
+  margin-top: 50px;
+  font-style: italic;
+}
+
+body {
+  background-color: rgb(180, 179, 179);
+}
